@@ -1,0 +1,5 @@
+1. readCSV.js => read the csv and create an array of string
+2. location.js => scan the array for optimum number of words a a time, scan the DB to find the match of individual keywords.
+
+Database:
+Contains the Hash table (in lower case) of all the cities and countries.
